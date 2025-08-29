@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mintawlon&label=Profile%20views&color=0e75b6&style=flat" alt="mintawlon" /> </p>
 
-- 🔭 I’m currently working as a freelance DevOps Engineer and project assistance at One Project One Month Myanmar Developers Community **Productivity Suite , Hotel Management, Food Ordering S**
+
 
 - 🌱 I’m currently learning DevOps and Data Course **CI/CD, Kubernetes, Terraform , AWS , Snow Flake , PySpark**
 
