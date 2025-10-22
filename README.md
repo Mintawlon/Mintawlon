@@ -28,6 +28,7 @@ I'm a backend and DevOps enthusiast who loves exploring cloud-native architectur
   <img src="https://img.shields.io/badge/Argo_CD-ED157B?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
